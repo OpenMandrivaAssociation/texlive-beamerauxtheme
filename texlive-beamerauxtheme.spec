@@ -1,6 +1,6 @@
 Name:		texlive-beamerauxtheme
 Version:	56087
-Release:	1
+Release:	2
 Summary:	Supplementary outer and inner themes for beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamerauxtheme
