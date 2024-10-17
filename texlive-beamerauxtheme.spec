@@ -3,7 +3,7 @@ Version:	56087
 Release:	2
 Summary:	Supplementary outer and inner themes for beamer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamerauxtheme
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamerauxtheme
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerauxtheme.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerauxtheme.doc.r%{version}.tar.xz
